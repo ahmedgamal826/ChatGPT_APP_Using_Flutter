@@ -93,7 +93,9 @@ class _ChatScreenState extends State<ChatScreen> {
             ),
             if (_isLoading)
               const Center(
-                child: CircularProgressIndicator(),
+                child: CircularProgressIndicator(
+                  color: Colors.black,
+                ),
               ),
           ],
         ),
