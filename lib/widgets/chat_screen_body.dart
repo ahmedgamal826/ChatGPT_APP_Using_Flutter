@@ -36,7 +36,7 @@ class ChatScreenBody extends StatelessWidget {
               },
             ),
           ),
-          TextFormFieldAndIconAndIcon(
+          TextFormFieldAndIcon(
             userInput: userInput,
             label: 'Enter Your Message',
             sendMessage: sendMessage,

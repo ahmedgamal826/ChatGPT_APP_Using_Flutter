@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class TextFormFieldAndIconAndIcon extends StatelessWidget {
-  const TextFormFieldAndIconAndIcon(
+class TextFormFieldAndIcon extends StatelessWidget {
+  const TextFormFieldAndIcon(
       {required this.userInput,
       required this.sendMessage,
       required this.label});
